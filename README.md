@@ -48,12 +48,3 @@ for edge in edge_list:
 ```
 We also give a f1-score measurement function `f1()` to envalue the clustering results.
 
-
-<<<<<<< HEAD
-=======
- | Dataset | File Name |
- |IID partitioned A3 dataset |A3_iid_edge_number.csv |
- |non-IID partitioned A3 dataset   |A3_noniid_edge_number.csv   |
- |IID partitioned ImagenetS dataset       |ImagenetS_iid_edge_number.csv      |
- |non-IID partitioned ImagenetS dataset   |ImagenetS_noniid_edge_number.csv   |
->>>>>>> 8b70ab64db6133ae3b0be3084e59648c99a6a22f
