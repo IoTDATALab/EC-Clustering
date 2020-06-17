@@ -89,6 +89,6 @@ class cloud_ECClustering:
         --------------------------------------------
             out_centers - (list of edge_centers) broacast centers
         '''
-        out_centers = cloud_clustering(centers, self.n_clusters)
+        out_centers = cloud_clustering(in_centers, self.n_clusters)
         self.centers = out_centers
         return out_centers
